@@ -1,0 +1,71 @@
+header {
+    background-color: solid pink;
+}
+.about-me {
+    color: pink;
+    text-align: center;
+    margin-right: -28%;
+}
+.GeethaPicture {
+    display: block;
+    margin-left: 38%;
+    margin-right: 38%;
+}
+.text1 {
+    margin-top: 3%;
+    display: block;
+    height: 20%;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-style: normal;
+    font-weight: 100000;
+}
+.text2 {
+    display: block;
+    margin-top: 3%;
+    height: 20%;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-style: normal;
+    font-weight: 100000;
+}
+.text3 {
+    display: block;
+    margin-top: 3%;
+    height: 20%;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-style: normal;
+    font-weight: 100000;
+    margin-bottom: 2%;
+}
+.content {
+    padding: 1%;
+    border: 5px solid pink;
+}
+.contact-me {
+    display: block;
+    height: 10%;
+    width: 20%;
+    border: 5px solid pink;
+    margin-left: 40%;
+    margin-right: 50%;
+    background-color: pink;
+}
+.social-icon {
+    color: black;
+}
+.linkedIn {
+    margin-left: 20%;
+}
+.instagram {
+    margin-left: 20%;
+    margin-top: -3%;
+}
+
+
+
+ 

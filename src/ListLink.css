@@ -1,0 +1,77 @@
+.header1 {
+    padding-bottom: 5%;
+    border: 5px solid pink;
+    background-color: antiquewhite;
+}
+
+.title {
+    display: block;
+    text-align: end;
+    color: pink;
+}
+.sub-heading {
+    display: block;
+    text-align: center;
+    color: pink;
+}
+.titanic {
+    display: block;
+    width: 100%;
+}
+.textDetails {
+    display: block;
+    margin-top: 3%;
+ 
+}
+.alignment {
+    margin-top: 3%;
+    margin-right: 25%;
+    margin-left: 30%;
+}
+.image1 {
+    display: block;
+    margin-left: 20%;
+    margin-bottom: 4%;
+}
+.image2 {
+    display: block;
+    margin-right: 80%;
+    margin-left: 20%;
+    margin-bottom: 3%;
+}
+.image3 {
+    display: block;
+    margin-right: 80%;
+    margin-left: 20%;
+    margin-top: 3%;
+}
+.salem {
+    display: block;
+    margin-top: 3%;
+}
+h2 {
+    text-align: center;
+}
+.titanic-alignment {
+    padding-left: 2%;
+    padding-right: 2%;
+    border: 5px solid pink;
+    padding-bottom: 3%;
+    background-color: pink;
+}
+ .ketchup-alignment {
+    margin-top: 10%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border: 5px solid pink;
+    padding-bottom: 2%;
+    background-color: pink;
+} 
+.salem-alignment {
+    margin-top: 10%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border: 5px solid pink;
+    padding-bottom: 2%;
+    background-color: pink;
+}

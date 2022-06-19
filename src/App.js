@@ -1,23 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import React from 'react';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div class="historicalRemnants">
+          <h1>Historical Remnants</h1>
+          <p className='mainPageDescription'> 
+            Get a glimpse into the remnants of our past.
+            History is a beautiful and often forgotten gift in this world, so
+            I hope to open your eyes to its beauty.
+            Read along if you wish to learn about some cool historical facts and stories.
+          </p>
     </div>
   );
 }
